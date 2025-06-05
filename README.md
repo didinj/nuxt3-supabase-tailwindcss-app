@@ -1,6 +1,6 @@
 # Build a Full-Stack App with Nuxt 3, Supabase, and Tailwind CSS
 
-Read full article [here]().
+Read full article [here](https://www.djamware.com/post/684113d6d03b6c682057d7fc/build-a-fullstack-app-with-nuxt-3-supabase-and-tailwind-css).
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
